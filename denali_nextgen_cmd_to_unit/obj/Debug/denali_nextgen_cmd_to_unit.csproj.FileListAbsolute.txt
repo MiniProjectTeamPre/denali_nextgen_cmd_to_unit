@@ -1,0 +1,21 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe.config
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.pdb
+D:\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.csprojResolveAssemblyReference.cache
+D:\SvnServer\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\bin\Debug\denali_nextgen_cmd_to_unit.exe.config
+D:\SvnServer\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.exe
+D:\SvnServer\Projects C#\mini_projeck_template\denali_nextgen_cmd_to_unit\denali_nextgen_cmd_to_unit\obj\Debug\denali_nextgen_cmd_to_unit.pdb
